@@ -11,6 +11,7 @@ The projects demonstrate common data engineering tasks including **data generati
 ### Overview
 
 This workflow demonstrates a **complete ETL pipeline** where synthetic data is generated, transformed, stored in a temporary file, and finally loaded into a database.
+![Transforming and loading data into Database](https://github.com/user-attachments/assets/12ed1829-99d8-459a-8e2e-6c68ce3976bd)
 
 ### Workflow Steps
 
@@ -45,6 +46,7 @@ This workflow demonstrates a **complete ETL pipeline** where synthetic data is g
 ### Overview
 
 This project simulates a **customer data processing pipeline** that generates synthetic customer data, enriches it with reference data, and separates valid and rejected records.
+![Customer Data Orchasteration](https://github.com/user-attachments/assets/f3a336bf-2ed2-4d5c-9c8b-65332b27cb41)
 
 ### Workflow Steps
 
@@ -92,6 +94,7 @@ This project simulates a **customer data processing pipeline** that generates sy
 ### Overview
 
 This project focuses on **extracting and parsing data from different file formats** including JSON, XML, positional, and delimited files.
+![Data Extraction Project](https://github.com/user-attachments/assets/0a47db3c-0a94-4795-af15-3ae5ee721869)
 
 ### Workflow Steps
 
@@ -139,6 +142,4 @@ The workflow demonstrates multiple Talend extraction techniques:
 * Structured and semi-structured data parsing
 * Regex-based field extraction
 * End-to-end file processing pipelines
-
----
 
